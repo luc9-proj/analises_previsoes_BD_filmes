@@ -7,5 +7,15 @@ Esse repositório contém os materiais utilizados para realizar as seguintes ati
 
 
 # 🛠️ Instruções para instalar e executar o projeto
+OBS: O Anaconda precisa estar instalado na sua máquina para executar as instruções abaixo:
+1. Baixar o repositório
+2. Criar um ambiente virtual:
+   - conda create -n ambiente_virtual python=3.10.12
+3. Acessar o ambiente virtual:
+   - conda activate ambiente_virtual
+4. Instalar os requisitos:
+   - pip install -r requisitos.txt
+5. Carregar e executar o notebook:
+   - jupyter notebook desafio_base_de_dados_filmes.ipynb
 
 
